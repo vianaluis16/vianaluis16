@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying Computer Science at **UFES**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, TypeScript, React**
+- 💬 Ask me about **JavaScript, HTML, CSS, TypeScript & React**
 
 - ⚡ I'm addicted to sports and I can't decide which one I prefer
 
