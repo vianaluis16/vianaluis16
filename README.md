@@ -39,16 +39,10 @@
 
 <br><br>
 
-## Contact
+## 📞 Contact Me:
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
+![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)&nbsp;
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/vianaluis16/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-vianaluis16-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/luisvianaz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-vianaluis16-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
 <!--
 
