@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, PHP, MySQL, Laravel, HTML, CSS, TypeScript & React**
 
-- 🌱 I’m currently learning more about **Cybersecurity**, looking for a better knowledge to learn important certification in this area
+- 🌱 I’m currently deepening my knowledge in **Cybersecurity**, aiming to acquire the expertise needed to achieve important certifications in this field.
 
 - ⚽ I'm passionate about sports, especially **basketball**, **surf** and **football**. I always find it hard to choose which one I love the most.
 
