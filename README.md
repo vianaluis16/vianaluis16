@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying Computer Science at **UFES**
 
-- 💬 Ask me about **JavaScript, PHP, MySQL, Laravel, HTML, CSS, TypeScript & React**
+- 💬 Ask me about **Python, PHP, MySQL, Laravel, .NET, TypeScript & React**
 
-- 🌱 I’m currently deepening my knowledge in **Cybersecurity**, aiming to acquire the expertise needed to achieve important certifications in this field.
+- 🌱 I’m currently deepening my knowledge in **AI Tools*, aiming to acquire the expertise needed to achieve the level i want.
 
 - ⚽ I'm passionate about sports, especially **basketball**, **surf** and **football**. I always find it hard to choose which one I love the most.
 
