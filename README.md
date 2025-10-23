@@ -38,9 +38,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianaluis16&show_icons=true&theme=tokyonight" alt="Luis Viana's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaluis16&layout=compact&theme=tokyonight" alt="Most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaluis16&layout=compact&theme=tokyonight&hide=html,css" alt="Most used languages (without HTML/CSS)"/>
 </p>
-
 ---
 
 ## 🤝 Let's Connect
